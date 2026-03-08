@@ -1,4 +1,4 @@
-<h1 align='center'>UNetKAN</h1>
+<h1 align='center'>U-KAN</h1>
 
 ## This is a warehouse for UKAN-Pytorch-model, can be used to train your extreme precipitation dataset for nowcasting.
 ### The code partly come from [official source code](https://github.com/CUHK-AIM-Group/U-KAN)  
